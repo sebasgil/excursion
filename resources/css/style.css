@@ -31,3 +31,7 @@ h2 {
   font-size: 21px;
   color: Gray;
 }
+
+a {
+  display:inline-block;
+}
