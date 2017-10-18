@@ -6,4 +6,6 @@ This web-site was is built as part of Unit 3 in the course.
 Completion not only required advanced style notes, but proper usage of the git work flow.
 
 
-NOTE: Although all the pushes have worked, the GitHub pages link seems to be broken. Wait for server maintenance, perhaps?
+Everything is fixed and up to date. The project can be considered finalized.
+
+Still to do: establish a better file hierarchy with respect to other repositories
